@@ -140,5 +140,5 @@ The project includes the development of a **Streamlit-based web application**, w
 *   [@SayanRony](https://github.com/SayanRony)
 *   [@srinjoy29](https://github.com/srinjoy29)
 *   [@Sayanijana23](https://github.com/Sayanijana23)
-*   [@pallavBag](https://github.com)
+*   [@pallav34](https://github.com/pallav34)
 *   [@Nilambargiri](https://github.com)
