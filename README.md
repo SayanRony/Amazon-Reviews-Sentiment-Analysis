@@ -7,6 +7,7 @@
 *   🗓️ **Project Duration**: 20th September 2024 – 30th June 2025
 *   👨‍🏫 **Mentor**: Dr. Mrinmoy Sen (Assosiate Professor at HALDIA INSTITUTE OF TECHNOLOGY )
 *   👥 **Team Size**: 5
+*   🔗 *Live link*: [Deploy Link](https://ecommercereviewsentimentanalysis-g44.streamlit.app/)
 *   🔗 **Project Repository**: [GitHub - Amazon Reviews Sentiment Analysis](https://github.com/SayanRony/Amazon-Reviews-Sentiment-Analysis)
 
 🔖 **About the Project**
