@@ -22,7 +22,13 @@ The project includes the development of a **Streamlit-based web application**, w
 *   Upload and process **bulk reviews** via CSV files
     
 *   Fetch **live product reviews** directly from **Amazon product URLs** and analyze their sentiments
-    
+
+*   ![WhatsApp Image 2025-05-22 at 18 21 16_aad92ca2](https://github.com/user-attachments/assets/eda1dfba-d8a4-470d-a480-9aefc440b52c)
+*   ![WhatsApp Image 2025-05-22 at 18 21 16_804e4c23](https://github.com/user-attachments/assets/47bb38b9-745e-4cc9-a399-5171edca8b34)
+*   ![WhatsApp Image 2025-06-10 at 07 19 44_7ca8d777](https://github.com/user-attachments/assets/da333b41-652c-47c5-abda-7fc99eb3ea9c)
+*   ![WhatsApp Image 2025-06-10 at 07 19 44_e51c35b5](https://github.com/user-attachments/assets/79c9db27-8369-460a-ba85-98c4cfca6a5c)
+
+
 
 🎯 **Objectives**
 -----------------
